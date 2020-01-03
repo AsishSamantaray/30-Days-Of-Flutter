@@ -1,4 +1,4 @@
-# 30daysOfFlutter
+# 30-Days-Of-Flutter
 Repository for everything I learn in flutter for next 30 days.
 ## What it is about
 The rules of 30 days of Flutter are very simple:
